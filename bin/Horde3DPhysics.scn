@@ -1,0 +1,9 @@
+<!DOCTYPE SceneConfiguration>
+<Configuration>
+    <Pipeline path="" />
+    <SceneGraph path="Horde3DPhysics.scene.xml" />
+    <EnginePath texturepath=".\textures" geometrypath=".\models" pipelinepath=".\pipelines" shaderpath=".\shaders" scenegraphpath=".\models" animationpath=".\animations" materialpath=".\materials" effectspath=".\effects" />
+    <LightParameters lightingcontext="LIGHTING" shadowcontext="SHADOWMAP" />
+    <Extras/>
+    <ActiveCamera name="Horde3DPhysics" />
+</Configuration>

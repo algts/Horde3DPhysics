@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Horde3DPhysics", "src\Horde3DPhysics\Horde3DPhysics.vcxproj", "{63F31636-A4EA-441B-AD6C-5E619CE41E71}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoxSample", "src\BoxSample\BoxSample.vcxproj", "{CF13B766-1AF4-4D3F-A58D-BCFAC38BC92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F31636-A4EA-441B-AD6C-5E619CE41E71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63F31636-A4EA-441B-AD6C-5E619CE41E71}.Debug|Win32.Build.0 = Debug|Win32
+		{63F31636-A4EA-441B-AD6C-5E619CE41E71}.Release|Win32.ActiveCfg = Release|Win32
+		{63F31636-A4EA-441B-AD6C-5E619CE41E71}.Release|Win32.Build.0 = Release|Win32
+		{CF13B766-1AF4-4D3F-A58D-BCFAC38BC92F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF13B766-1AF4-4D3F-A58D-BCFAC38BC92F}.Debug|Win32.Build.0 = Debug|Win32
+		{CF13B766-1AF4-4D3F-A58D-BCFAC38BC92F}.Release|Win32.ActiveCfg = Release|Win32
+		{CF13B766-1AF4-4D3F-A58D-BCFAC38BC92F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

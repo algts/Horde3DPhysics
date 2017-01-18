@@ -1,0 +1,5 @@
+<!DOCTYPE HordeSceneGraph>
+<Group name="Horde3DPhysics" >
+    <Camera pipeline="" topPlane="0.0414214" bottomPlane="-0.0414214" leftPlane="-0.0552285" farPlane="1000" name="Horde3DPhysics" rightPlane="0.0552285" nearPlane="0.1" />
+    <Light radius="100" col_G="1" shadowMapCount="0" fov="90" lightingContext="LIGHTING" shadowMapBias="0.005" name="Horde3DPhysics" col_R="1" shadowSplitLambda="0" shadowContext="SHADOWMAP" col_B="1" />
+</Group>
